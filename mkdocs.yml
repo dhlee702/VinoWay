@@ -1,3 +1,18 @@
 site_name: My Docs
+nav:
+  - 개요 : index.md
+  - 착수 : 
+    - '프로젝트계획서': 'plan/project_plan.md'
+    - '산출물Tailoring': 'plan/artifact_tailoring.md'
+  - 계획 스프린트:
+    - '아키텍처정의서': 'sprint0/architecture.md'
+    - '요구사항정의서': 'sprint0/product_backlog.md'
+  - 개발 스프린트(#1~#N):
+    - '스프린트백로그'  : 'sprint1/spring_backlog.md'
+    - 'UI설계'         : 'sprint1/uiux.md'
+    - '인터페이스정의서': 'sprint1/interface_design.md'
+    - '물리ERB'        : 'sprint1/ERB.md'
+  - 테스트    : 'test_result.md'
+  - 업무전환  : 'cutover_plan.md'
 
 theme: readthedocs
