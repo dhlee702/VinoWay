@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Vino's Software Developement Standard Process
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [docs.vino](https://dhlee702.github.io/VinoWay/).
 
-## Commands
+비노 소프트웨어 개발 방법론
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 프로세스(Agile, DDD, 객체지향설계)
 
-## Project layout
+* `착수` - 프로젝트 계획 (Project Plan)
+* `계획 스프린트(#0)` - 아키텍처 정의, 요구사항 정의(Product Backlog), 업무프로세스 정의(Workflow), 화면설계(Prototype)
+* `개발 스프린트(#1~#N)` - 스프린트 추가 요구사항(Spring Backlog), UI설계, 인터페이스정의서, 물리ERB, 테이블정의서, 소스코드
+* `테스트` - 테스트결과서
+* `Cut-Over` - 업무전환계획서
+
+## 산출물
 
     mkdocs.yml    # The configuration file.
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        index.md  # 개발 방법론 개요
+        ...       # 
+t
