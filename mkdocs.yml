@@ -12,7 +12,9 @@ nav:
     - 'UI설계'         : 'sprint1/uiux.md'
     - '인터페이스정의서': 'sprint1/interface_design.md'
     - '물리ERB'        : 'sprint1/ERB.md'
-  - 테스트    : 'test_result.md'
-  - 업무전환  : 'cutover_plan.md'
+  - 테스트    :
+    - '테스트'  : 'test_result.md'
+  - 업무전환  : 
+    - 'Cut-over Plan' : 'cutover_plan.md'
 
 theme: readthedocs
