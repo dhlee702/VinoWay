@@ -1,8 +1,5 @@
-# Vino's Software Developement Standard Process
-
-For full documentation visit [docs.vino](https://dhlee702.github.io/VinoWay/).
-
-비노 소프트웨어 개발 방법론
+# Project Plan Example
+프로젝트 계획서
 
 ## 프로세스
 Agile 방법론 , DDD, 객체지향설계
@@ -13,14 +10,4 @@ Agile 방법론 , DDD, 객체지향설계
 * `테스트` - 테스트결과서
 * `Cut-Over` - 업무전환계획서
 
-## 산출물
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # 개발 방법론 개요
-        plan/     # 
-        sprint0/
-        sprint1/
-        sprint.../
-        test_result.md
-        cutover.md
+## 추진 일정
