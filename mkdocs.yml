@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: My Vino Way
 nav:
   - 개요 : index.md
   - 착수 : 
@@ -17,4 +17,5 @@ nav:
   - 업무전환  : 
     - 'Cut-over Plan' : 'cutover_plan.md'
 
-theme: readthedocs
+# theme: readthedocs
+theme: material
